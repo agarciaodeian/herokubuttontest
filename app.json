@@ -1,0 +1,14 @@
+{
+  "name": "OData sample test",
+  "description": "A sample of OData used in Madrid",
+  "repository": "https://github.com/agarciaodeian/herokubuttontest",
+  "keywords": ["sample", "button"],
+  "env": {
+    "GOOGLE_USER": {
+    	"description": "your drive user",
+    	"generator" : "a@gmail.com"
+    "GOOGLE_PASS": {
+      "description": "your drive password",
+      "generator": "secret"
+    }
+}
